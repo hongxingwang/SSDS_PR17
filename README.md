@@ -11,7 +11,7 @@ The code is provided for research purposes only and without any warranty. Please
 
 # Environment
 
-The code is tested on 64-bit Windows with MATLAB R2015a, coming with pre-compiled mex files via Visual Studio 2013.
+The code is tested on 64-bit Windows with MATLAB R2015a, coming with the pre-compiled mex file "fista_dykastra.mexw64" via Visual Studio 2013.
 
 # Usage
 
