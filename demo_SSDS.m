@@ -1,6 +1,6 @@
 %=====================================================================
 %   This is the demo code to run for finding the representatives via
-%   Structured Sparse Dicationary Selection
+%   Structured Sparse Dictionary Selection
 %
 %   Citation
 %   --------
