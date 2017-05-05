@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////////////////////
-// FISTA to computes 
+// FISTA to compute 
 //   argmin_V 0.5/LipC*|X-XV|||_F^2  +  sum_{ij} theta_{ij} ||v^i - v^j||_1
 //             + sum_{ ij } rho_{ ij } || v_i - v_j ||_1
 //             + lambda ||V||_{1,2}
